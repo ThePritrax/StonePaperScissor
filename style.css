@@ -43,7 +43,8 @@ section{
     font-size: 50px;
 }
 
-.intro button, .match button{
+.intro button, 
+.match button{
     height: 50px;
     width: 100px;
     background-color: #EC255A;
@@ -61,11 +62,12 @@ section{
 
 .winner{
     color: rgb(211, 206, 206);
-    text-align: center;
     font-size: 40px;
+    text-align: center;
 }
 
-.hands, .moves{
+.hands, 
+.moves{
     display: flex;
     justify-content: space-around;
     align-items: center;
