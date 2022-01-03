@@ -36,7 +36,6 @@ section{
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    opacity: 0; /* temporarily hiding the intro, to be reverted */
 }
 
 .intro h1{
